@@ -1,1 +1,3 @@
-# upcpre-202302-si385-practica02-file_v1-Kevin-Grados-Farf-n
+El diseño de la landing page es sencillo pero fácil de entender para los nuevos usuarios como el tamaño y tipo de letra, el color que se usó para algunos fondos y las imágenes que van acorde a la startup
+La arquitectura de la página web es fácil de manejar ya que toda la información importante va en dicha página y además los usuarios no se van a sentir confundidos con la cantidad de información que se les presenta
+El diseño de la página se tuvo en cuenta a las personas con problemas visuales por lo tanto se usó el tamaño de letra adecuado para que no tengan problemas al momento de leer la información, además los colores son amigables a la vista
